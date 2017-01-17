@@ -1,0 +1,21 @@
+{
+  "name": "tfs-endpoint",
+  "version": "1.0.0",
+  "description": "api endopoint that exposes TFS services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tfs",
+    "api",
+    "endpoint"
+  ],
+  "author": "Riccardo Merlin",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
